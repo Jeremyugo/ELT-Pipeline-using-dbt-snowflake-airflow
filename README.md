@@ -34,3 +34,7 @@ This repo is organized into the following directories
 ## Dataset
 
 The dataset used was the `TPCH_SF1` located in snowflake's `SNOWFLAKE_SAMPLE_DATA` database.
+
+### Resource
+
+[Astronomer-Cosmos](https://github.com/astronomer/astronomer-cosmos) was used to easily run/orchestrate the dbt-snowflake data pipeline

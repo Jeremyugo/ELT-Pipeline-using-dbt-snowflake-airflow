@@ -38,3 +38,6 @@ The dataset used was the `TPCH_SF1` located in snowflake's `SNOWFLAKE_SAMPLE_DAT
 ### Resource
 
 [Astronomer-Cosmos](https://github.com/astronomer/astronomer-cosmos) was used to easily run/orchestrate the dbt-snowflake data pipeline
+
+![image](https://github.com/user-attachments/assets/f32a6f46-868c-4c65-a92c-acadcfae72a0)
+
